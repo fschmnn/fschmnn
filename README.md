@@ -1,6 +1,6 @@
 ### Hi there 😃
 
-I'm a PhD student in Astronomy at Heidelberg University. Here you can find the code for the projects I've been working on as part of my thesis:
+I'm a PhD student in Astronomy at Heidelberg University. Here you find the code that I wrote for my thesis project
 
 * [pnlf](https://github.com/fschmnn/pnlf): measure the Planetary Nebulae Luminosity Function for 19 galaxies observed by PHANGS--MUSE.
 * [gas-around-stars](https://github.com/fschmnn/gas-around-stars): connect HII regions to the source of the ionizing radiation, i.e. massive star clusters.
