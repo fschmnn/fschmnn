@@ -12,6 +12,7 @@ I am also a bit of a LaTeX enthusiast. Here are some projects one might find use
 * [biblatex-mnras](https://github.com/fschmnn/biblatex-mnras): emulate the MNRAS bibliography style in biblatex.
 * [pyTeX](https://github.com/fschmnn/pyTeX): stylesheet to create beautiful figures in matplotlib that integrate seamlessly in LaTeX.
 * [thesis-template](https://github.com/fschmnn/thesis-template): a thesis template (not up-to-date).
+* [article-template](https://github.com/fschmnn/article-template): a template for a vintage style document.
 
 Other stuff:
 
