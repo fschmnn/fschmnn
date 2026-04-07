@@ -1,6 +1,6 @@
 ### Hi there 😃
 
-I'm a PhD student in Astronomy at Heidelberg University. Here you can find the code that I wrote for my thesis project:
+I'm a Postdoc in Astronomy at Heidelberg University. Here you can find the code that I wrote for my PhD project:
 
 * [pnlf](https://github.com/fschmnn/pnlf): measure the Planetary Nebulae Luminosity Function for 19 galaxies observed by PHANGS--MUSE.
 * [gas-around-stars](https://github.com/fschmnn/gas-around-stars): connect HII regions to the source of the ionizing radiation, i.e. massive star clusters.
@@ -16,6 +16,7 @@ I am also a bit of a LaTeX enthusiast. Here are some projects one might find use
 
 Other stuff:
 
+* [tools](https://github.com/fschmnn/tools): a collection of useful functions that I use in various projects.
 * [duodecimal](https://github.com/fschmnn/duodecimal): base 12 is superior to base 10. This python package allows for easy conversion.
 * [cellular-automata](https://github.com/fschmnn/cellular-automata): create fun animations of cellular automata. 
 * [circle-of-parity](https://github.com/fschmnn/circle-of-parity): find a circle of parity based on NFL games.
